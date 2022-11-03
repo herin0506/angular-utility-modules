@@ -50,7 +50,7 @@
     "core-js": "2.6.5",
     "del": "3.0.0",
     "fs-extra": "7.0.1",
-    "gulp": "3.9.1",
+    "gulp": "4.0.2",
     "gulp-change": "1.0.2",
     "gulp-gzip": "1.4.2",
     "gulp-rename": "1.4.0",
